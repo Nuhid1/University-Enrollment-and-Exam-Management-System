@@ -45,9 +45,9 @@ This project is a **console-based Student Management System** built using **C++*
 ## 🧪 Sample Output
 -student added : 11
 
-#student added : 14
+student added : 14
 
--student added : 15
+student added : 15
 
 -student added : 16
 
@@ -68,8 +68,8 @@ This project is a **console-based Student Management System** built using **C++*
 -course registered : 13 - 202
 -dequeue : 11 - 222
 
--course registration queue :
--14 - 822 -> 15 - 272 -> 13 - 202 ->
+course registration queue :
+14 - 822 -> 15 - 272 -> 13 - 202 ->
 
  exam record inserted : 11
 marks: 85

@@ -46,6 +46,7 @@ class admission
 
 void removeStudent (int id)
 {
+    cout << "student removed : "<<id<<endl;
    int x;
    student* temp=head;
    while (temp!=nullptr && temp->id!=id)
@@ -245,6 +246,7 @@ int main ()
 
     a.removeStudent(15);
     a.removeStudent(16);
+    cout<<endl;
     a.displayForward();
     a.displayBackward();
 

@@ -45,7 +45,7 @@ This project is a **console-based Student Management System** built using **C++*
 ## 🧪 Sample Output
 -student added : 11
 
--student added : 14
+#student added : 14
 
 -student added : 15
 

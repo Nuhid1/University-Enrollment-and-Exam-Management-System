@@ -43,33 +43,33 @@ This project is a **console-based Student Management System** built using **C++*
    g++ -o student_system main.cpp
    ./student_system
 ## 🧪 Sample Output
-student added : 11
+-student added : 11
 
-student added : 14
+-student added : 14
 
-student added : 15
+-student added : 15
 
-student added : 16
+-student added : 16
 
-student added : 13
+-student added : 13
 
-invalid id
-invalid id
+-student removed : 15
+-student removed : 16
 
-student list (forward) :
-11 -> 14 -> 13 ->
+-student list (forward) :
+-11 -> 14 -> 13 ->
 
-student list (backward) :
-13 -> 14 -> 11 ->
+-student list (backward) :
+-13 -> 14 -> 11 ->
 
-course registered : 11 - 222
-course registered : 14 - 822
-course registered : 15 - 272
-course registered : 13 - 202
-dequeue : 11 - 222
+-course registered : 11 - 222
+-course registered : 14 - 822
+-course registered : 15 - 272
+-course registered : 13 - 202
+-dequeue : 11 - 222
 
-course registration queue :
-14 - 822 -> 15 - 272 -> 13 - 202 ->
+-course registration queue :
+-14 - 822 -> 15 - 272 -> 13 - 202 ->
 
  exam record inserted : 11
 marks: 85
